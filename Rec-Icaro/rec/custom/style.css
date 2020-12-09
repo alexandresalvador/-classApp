@@ -1,0 +1,24 @@
+
+
+  .container h1 {
+    font-size: 40px;
+    font-family: 'PT Sans', sans-serif;
+  }
+
+
+
+  .form-control {
+     width: 700px;
+     height: 30px;
+  }
+
+  .col-md-8 {
+    width: 30px;
+  }
+
+  .row {
+
+    padding: 10px;
+
+  }
+  
